@@ -1,0 +1,46 @@
+
+body{
+color: rgb(180, 180, 180);    
+background:rgb(55, 53, 52);
+
+}
+
+th{
+    padding: 0.5em;
+}
+a{
+    text-decoration: none;
+    color: rgb(180, 180, 180);
+}
+
+a:hover{
+    outline: none;
+    color: red
+}
+
+#nuevasReglas{
+    position: relative;
+    top: 1em;
+    left: 10em;
+    
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+        position: relative;
+        border: rgb(31, 29, 29);
+        bottom:  25em;
+        left: 25em;
+
+}
+
+
+.casillas{
+    background:  rgb(180, 180, 180);
+}
+.casillas.Necesarias{
+
+    background: rgb(255, 209, 217)
+
+}
